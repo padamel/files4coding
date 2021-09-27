@@ -1,0 +1,17 @@
+# Remember to list implicit packages here, otherwise version won't be fixated!
+argcomplete
+prettytable
+pytz
+python-dateutil
+pyyaml
+jsonschema
+jsonpath-rw
+requests
+six
+sseclient-py
+python-editor
+prompt-toolkit
+cryptography
+orjson
+# needed by requests
+chardet
